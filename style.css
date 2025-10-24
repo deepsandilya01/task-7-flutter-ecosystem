@@ -25,7 +25,7 @@ main span {
   font-size: 0.9rem;
   font-weight: 500;
   color: hsl(0, 0%, 100%);
-  background: linear-gradient(to right, #0E76FB, #7F3FF2);
+  background: linear-gradient(to right, #0e76fb, #7f3ff2);
 }
 main nav {
   width: 100%;
@@ -65,11 +65,11 @@ main nav .nav-links button {
   border: none;
   padding: 0.5rem 1rem;
   border-radius: 3.4rem;
-  background: #0E76FB;
+  background: #0e76fb;
 }
 main .page-one-container {
   width: 100%;
-  background: linear-gradient(45deg, #FCDDE8, transparent, transparent);
+  background: linear-gradient(45deg, #fcdde8, transparent, transparent);
 }
 main .page-one-container .page-one {
   width: 100%;
@@ -206,7 +206,7 @@ main .page-six-container .page-four {
   gap: 2rem;
   width: 100%;
   gap: 4rem;
-  background: linear-gradient(45deg, #FCFCE2, transparent);
+  background: linear-gradient(45deg, #fcfce2, transparent);
 }
 main .container-page-four .page-four img,
 main .page-six-container .page-four img {
@@ -566,7 +566,7 @@ main .last .right {
   main .page-six-container {
     width: 100%;
     overflow-x: hidden;
-    background: linear-gradient(45deg, #FCFCE2, transparent);
+    background: linear-gradient(45deg, #fcfce2, transparent);
   }
   main .container-page-four .page-four,
   main .page-six-container .page-four {
@@ -815,7 +815,7 @@ main .last .right {
   main .container-page-four,
   main .page-six-container {
     width: 100%;
-    background: linear-gradient(45deg, #FCFCE2, transparent);
+    background: linear-gradient(45deg, #fcfce2, transparent);
     overflow-x: hidden;
   }
   main .container-page-four .page-four,
@@ -1012,7 +1012,7 @@ main .last .right {
   main .container-page-four,
   main .page-six-container {
     width: 100%;
-    background: linear-gradient(45deg, #FCFCE2, transparent);
+    background: linear-gradient(45deg, #fcfce2, transparent);
     overflow-x: hidden;
   }
   main .container-page-four .page-four,
